@@ -10,4 +10,5 @@ depending on concepts as
 5-Permissions Handling 
 
 
-The attached Pictures illustrates how the App works and to navigate through the app
+6-The attached Pictures illustrates how the App works and to navigate through the app
+
