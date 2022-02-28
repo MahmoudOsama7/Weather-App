@@ -8,3 +8,6 @@ depending on concepts as
 3-Kotlin 
 4-Location Service 
 5-Permissions Handling 
+
+
+The attached Pictures illustrates how the App works and to navigate through the app
