@@ -9,5 +9,6 @@ depending on concepts as
 4-Location Service 
 5-Permissions Handling 
 
+6-
+7-The attached Pictures illustrates how the App works and to navigate through the app
 
-The attached Pictures illustrates how the App works and to navigate through the app
